@@ -2,5 +2,7 @@
 name = "ermac"
 version = "0.0.0"
 edition = "2024"
+description = "Error macro"
+license = "MIT"
 
 [dependencies]
